@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Deshittc/vs.yumi/issues"
   },
-  "homepage": "https://github.com/Deshittc/vs.yumi#readme"
+  "homepage": "https://github.com/Deshittc/vs.yumi#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
